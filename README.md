@@ -5,6 +5,8 @@
 
 Clone this repository and take a look at the installation instructions [here](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project/blob/master/README.md)
 
+Please download the dataset from [here](https://s3-us-west-1.amazonaws.com/udacity-selfdrivingcar/traffic-signs-data.zip)
+
 
 [//]: # (Image References)
 
